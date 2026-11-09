@@ -2,5 +2,6 @@
 .myenv/
 .venv-chroma/
 __pycache__/
-chroma_db/
 Data/portfolio.txt
+.cloud-index-smoke/
+
